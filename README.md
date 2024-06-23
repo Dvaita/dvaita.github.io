@@ -1,2 +1,2 @@
-# dvaita.github.io
-My Personal Page
+# Dvaita (Duality)
+Welcome to my personal page
