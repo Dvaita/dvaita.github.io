@@ -1,15 +1,10 @@
 ---
 layout: default
-title: "Saravanan Sengottuvel"
+title: "Happy Jekylling!"
 ---
 
-# Saravanan Sengottuvel
+<br>
+<br><br><br>
+### Welcome to my page. This site is still under construction. Please stay tuned for more details!
 
-Welcome to my website.
-
-<br>
-## !Stay tuned for more content!
-<br>
-<br>
-## This site is powered by JEKYLL and GitHub!
-<br>
+This website is powered by Jekyll and hosted in GitHub pages.

@@ -2,3 +2,33 @@
 ---
 
 @import "base";
+
+body {
+   width: 1024px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.myheader {
+  display:flex;
+  flex-wrap: nowrap;
+  justify-content:space-between; 
+  border-bottom: solid 1px #e1e1e1;
+}
+
+.topnavbar {
+ 
+}
+
+.nav-list {
+    list-style: none;
+	display: flex;
+ }
+
+.nav-list li {
+padding: 10px;
+}
+
+.myname {
+}
+
