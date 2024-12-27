@@ -6,10 +6,9 @@
 
 <div class="topnav">
 	<ul class="nav-list">
-		<a href="#research">Research</a>
-		<a href="#publications">Publications</a>
-		<a href="#resume">Bio</a>
-		<a href="#therest">Extras</a>
+		{% for item in site.data.topnavigation %}
+			<a href=" {{ item.link }} ">{{ item.title }}</a>
+		{% endfor %}
 	</ul>
 </div>
 </div>
