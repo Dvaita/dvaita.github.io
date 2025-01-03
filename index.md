@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Saravanan Sengottuvel"
+title: "Saravanan_Sengottuvel"
 ---
 
 {% include front.html %}
