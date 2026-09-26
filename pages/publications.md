@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 <div class="publications">
-<h2>Recent publications (2020-2024)</h2>
+<h2>Recent publications (2020-2025)</h2>
 
 <p>Microwave-free imaging magnetometry with nitrogen-vacancy centers in nanodiamonds at near-zero field<br />
   <em>Saravanan Sengottuvel, Omkar Dhungel, Mariusz Mrózek, Arne Wickenbrock, Dmitry Budker, Wojciech Gawlik, Adam M Wojciechowski</em><br /><a href="https://doi.org/10.1103/PhysRevApplied.23.034001" target = "_blank">Phys. Rev. Applied 23, 034001 (2025)</a></p>
