@@ -6,9 +6,10 @@ permalink: /bio/
 <div class="biopage">
 
 <p><h3>Education</h3></p>
-<li><b><a href="https://www.uni-siegen.de/start/">Jagiellonian University</a></b>, Kraków, Poland (2020 - )<br>
-<blockquote>PhD in Physics (ongoing).<br>
-Advisor: Dr hab. Adam Wojciechowski & Prof. dr hab. Wojciech Gawlik</blockquote></li>
+<li><b><a href="https://www.uni-siegen.de/start/">Jagiellonian University</a></b>, Kraków, Poland (2020 - 2026)<br>
+<blockquote>PhD in Physics (submitted).<br>
+Advisor: Dr hab. Adam Wojciechowski & Prof. dr hab. Wojciech Gawlik<br>
+<br>Dissertation title: Feedback based stabilization of charged microparticles</blockquote></li>
 <li><b><a href="https://www.uni-siegen.de/start/">University of Siegen</a></b>, Siegen, Germany (2016)
 <blockquote>M.Sc. in Physics.<br>
 Advisor: Prof. Christof Wundelich & Dr Michael Johanning. <br>Dissertation title: Feedback based stabilization of charged microparticles</blockquote></li>
