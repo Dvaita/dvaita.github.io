@@ -1,0 +1,10 @@
+{% comment %}
+  University logo next to an education entry on the Bio page.
+
+  Parameters: file (path of the image inside the site) and name (used for the
+  alt text). The logo is shown only if the image file exists, so an entry
+  without a logo file simply has no image.
+  Styles: _sass/bio.scss
+{% endcomment %}
+{% assign logo_file = site.static_files | where: "path", include.file | first %}
+{% if logo_file %}<img class="edu-logo" src="{{ include.file | relative_url }}" alt="{{ include.name }} logo">{% endif %}

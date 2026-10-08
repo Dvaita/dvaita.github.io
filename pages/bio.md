@@ -6,13 +6,19 @@ permalink: /bio/
 <div class="biopage">
 
 <p><h3>Education</h3></p>
-<li><b><a href="https://www.uni-siegen.de/start/">Jagiellonian University</a></b>, Kraków, Poland (2020 - 2026)<br>
+<div class="edu-row">
+<div class="edu-text"><b><a href="https://en.uj.edu.pl/">Jagiellonian University</a></b>, Kraków, Poland (2020 - 2026)<br>
 <blockquote>PhD in Physics (submitted).<br>
 Advisor: Dr hab. Adam Wojciechowski & Prof. dr hab. Wojciech Gawlik
-<br>Dissertation title: Magnetometry with nitrogen-vacancy centers in nanodiamonds.</blockquote></li>
-<li><b><a href="https://www.uni-siegen.de/start/">University of Siegen</a></b>, Siegen, Germany (2016)
+<br>Dissertation title: Magnetometry with nitrogen-vacancy centers in nanodiamonds.</blockquote></div>
+{% include uni-logo.html file="/assets/images/JU_logo_blue.jpg" name="Jagiellonian University" %}
+</div>
+<div class="edu-row">
+<div class="edu-text"><b><a href="https://www.uni-siegen.de/start/">University of Siegen</a></b>, Siegen, Germany (2016)
 <blockquote>M.Sc. in Physics<br>
-Advisor: Prof. Christof Wundelich & Dr Michael Johanning <br>Dissertation title: Feedback based stabilization of charged microparticles.</blockquote></li>
+Advisor: Prof. Christof Wundelich & Dr Michael Johanning <br>Dissertation title: Feedback based stabilization of charged microparticles.</blockquote></div>
+{% include uni-logo.html file="/assets/images/uni_siegen_logo.jpg" name="University of Siegen" %}
+</div>
 
 <p><h3>Grants and Awards</h3></p>
 

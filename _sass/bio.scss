@@ -1,0 +1,19 @@
+.edu-row {
+  display: flex;
+  align-items: center;
+}
+
+.edu-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.edu-logo {
+  flex: 0 0 120px;
+  width: 140px !important;
+  height: 100px !important;
+  max-width: 140px !important;
+  max-height: 100px !important;
+  margin: 0 60px 0 50px;
+  object-fit: contain;
+}
